@@ -14,5 +14,17 @@ The kit contains two scripts:
 1. NPM START which runs a development version using the webpack-server
 2. NPM RUN BUILD which builds a production version, the script is made using the best tips and practices from the official webpack site, which makes sure the outputed production bundle has the minimal size!
 
-To install run:
+
+## Install
+
+Install with npm:
+
+```bash
 npm install
+```
+
+Install with yarn:
+
+```bash
+yarn install
+```
